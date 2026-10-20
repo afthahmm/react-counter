@@ -8,7 +8,9 @@ A clean and intuitive **React-based counter application** that features toggleab
 
 | Counter Hidden | Counter Visible |
 | :---: | :---: |
-|<img width="354" height="425" alt="Screenshot-1" src="" /> | <img width="354" height="425" alt="Screenshot-2" src="" /> |
+|<img width="354" height="425" alt="Screenshot-1" src="https://github.com/user-attachments/assets/7550dc59-594c-4864-ae4d-b12973284c8c" />
+ |<img width="469" height="482" alt="Screenshot-2" src="https://github.com/user-attachments/assets/3a08372e-eb18-42a6-91c4-060c6e5a618b" />
+ |
 
 ---
 
